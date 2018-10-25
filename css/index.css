@@ -1,0 +1,21 @@
+body {
+  position: relative;
+  padding: 0px;
+}
+
+ul.nav-pills {
+  top: 60px;
+  position: fixed;
+}
+
+div.sticky {
+  position: fixed;
+}
+
+.col-sm-3 {
+  background: rgb(122, 122, 122)
+}
+
+.col-sm-9 {
+  background: rgba(128, 135, 124, 0.72)
+}
